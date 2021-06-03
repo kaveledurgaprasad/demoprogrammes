@@ -2,3 +2,4 @@ Hi Durga
 
 vepulabylu,piler
 company:tecnotree
+slary:20000
